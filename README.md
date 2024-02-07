@@ -7,8 +7,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
 
 ## General Information
 - The main focus of the case study is on EDA, specifically to determine the key parameters that can help identify whether a customer is likely to default on a loan or not.
