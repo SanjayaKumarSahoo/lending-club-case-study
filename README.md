@@ -12,6 +12,11 @@
 - The main focus of the case study is on EDA, specifically to determine the key parameters that can help identify whether a customer is likely to default on a loan or not.
 - The loan.csv dataset is being used in this problem statement.
 
+## Technologies Used
+- pandas - version 2.0.3
+- sns - version 0.12.2
+- matplotlib - version 3.7.2
+
 ## Conclusions
 - Lending Club ought to consider lowering the interest rates on
 loans with a 60-month tenure as they are susceptible to loan
@@ -29,12 +34,6 @@ ceasing the issuance of loans to such businesses.
 obtaining larger loans and subsequently failing to repay them. In
 light of this, it is recommended that Lending Club ceases providing
 loans to this particular category of borrowers.
-
-
-## Technologies Used
-- pandas - version 2.0.3
-- sns - version 0.12.2
-- matplotlib - version 3.7.2
 
 ## Contact
 Created by [@sanjayakumarsahoo] - feel free to contact me!
